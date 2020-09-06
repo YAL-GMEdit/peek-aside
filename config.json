@@ -1,0 +1,6 @@
+{
+	"name": "peek-aside",
+	"description": "Allows to quickly edit a script in a side view",
+	"scripts": ["peek-aside.js"],
+	"stylesheets": []
+}
